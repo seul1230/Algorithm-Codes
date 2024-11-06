@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Solution_5215_D3_햄버거_다이어트_조예슬 {
+public class Solution_5215_D3_햄버거_다이어트 {
 	static int N, L, answer;
 	static int[] tastes, calories;
 	static int[] isSelected;

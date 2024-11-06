@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main_17143_G1_낚시왕_조예슬 {
+public class Main_17143_G1_낚시왕 {
 
 	static int R, C, M, answer, board[][], afterMove[][];
 	static int r, c, s, d, z;

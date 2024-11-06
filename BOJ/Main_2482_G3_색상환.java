@@ -7,7 +7,7 @@ import java.io.*;
  * 		실행시간    120 ms
  */
 
-public class Main_2482_G3_색상환_조예슬 {
+public class Main_2482_G3_색상환 {
 	static int N, K;
 	static int[][] dp;
 	public static void main(String[] args) throws Exception {

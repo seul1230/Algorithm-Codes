@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Solution_10966_D4_물놀이를_가자_조예슬 {
+public class Solution_10966_D4_물놀이를_가자 {
 	static int N, M, answer;
 	static int[][] cnt;
 	static char[][] map;

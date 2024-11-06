@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Solution_1949_모의_등산로_조성_조예슬 {
+public class Solution_1949_모의_등산로_조성 {
 	static int N, K, max, answer;
 	static int map[][];
 	static boolean visited[][];

@@ -3,7 +3,7 @@ package SWEA;
 import java.io.*;
 import java.util.*;
 
-public class Solution_2117_모의_홈_방범_서비스_조예슬 {
+public class Solution_2117_모의_홈_방범_서비스 {
 	static int N, M, answer;
 	static int[][] map;
 	public static void main(String[] args) throws IOException {

@@ -10,7 +10,7 @@ import java.util.*;
 
  */
 
-public class Solution_5658_모의_보물상자_비밀번호_조예슬 {
+public class Solution_5658_모의_보물상자_비밀번호 {
 	static int N, K;
 	static List<Character> nums;
 	static TreeSet<Integer> set;

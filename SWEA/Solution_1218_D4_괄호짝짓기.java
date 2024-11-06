@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 import java.util.StringTokenizer;
 
-public class Solution_1218_D4_괄호짝짓기_조예슬 {
+public class Solution_1218_D4_괄호짝짓기 {
 	static int N;
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

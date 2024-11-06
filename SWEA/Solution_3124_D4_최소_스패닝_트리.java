@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Solution_3124_D4_최소_스패닝_트리_조예슬 {
+public class Solution_3124_D4_최소_스패닝_트리 {
 	static int V, E;
 	static int[] parents;
 

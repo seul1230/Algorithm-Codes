@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Solution_5643_D4_키_순서_조예슬 {
+public class Solution_5643_D4_키_순서 {
 	static int N, M, cnt, answer, students[][];//, rstudents[][];
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

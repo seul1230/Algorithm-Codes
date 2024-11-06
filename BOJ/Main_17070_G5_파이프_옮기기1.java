@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 	실행시간  284ms
 */
 
-public class Main_17070_G5_파이프_옮기기1_조예슬 {
+public class Main_17070_G5_파이프_옮기기1 {
 
 	static int N, answer, board[][];
 	static int[] dx = {0,1,1};

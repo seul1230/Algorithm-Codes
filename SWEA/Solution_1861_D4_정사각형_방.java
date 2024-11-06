@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class Solution_1861_D4_정사각형_방_조예슬 {
+public class Solution_1861_D4_정사각형_방 {
 	static int N, rooms[][];
 	static int idx, answer;
 	static boolean[][] visited;

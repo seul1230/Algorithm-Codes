@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Solution_2112_보호_필름_조예슬 {
+public class Solution_2112_보호_필름 {
 	static int D, W, K, answer;
 	static int[][] film, org;
 	static boolean[] isSelected;

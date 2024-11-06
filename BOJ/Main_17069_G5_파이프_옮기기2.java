@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 	실행시간  116 ms
 */
 
-public class Main_17069_G5_파이프_옮기기2_조예슬 {
+public class Main_17069_G5_파이프_옮기기2 {
 
 	static int N, board[][];
 	static long answer, dp[][][];

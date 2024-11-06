@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class Solution_5656_벽돌_깨기_조예슬 {
+public class Solution_5656_벽돌_깨기 {
 	static int N, W, H, answer;
 	static int[][] map, org;
 	static int[] numbers; // 구슬 떨어뜨릴 열 저장

@@ -8,7 +8,7 @@ import java.util.Queue;
     메모리 40,980 kb
     실행시간 226ms
  */
-public class Solution_1868_D4_파핑파핑_지뢰찾기_조예슬 {
+public class Solution_1868_D4_파핑파핑_지뢰찾기 {
 
 	static int N, answer;
 	static char[][] board;

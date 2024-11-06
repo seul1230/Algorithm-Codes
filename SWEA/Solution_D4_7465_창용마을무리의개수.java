@@ -3,7 +3,7 @@ package SWEA;
 import java.io.*;
 import java.util.*;
 
-public class Solution_D4_7465_창용마을무리의개수_조예슬 {
+public class Solution_D4_7465_창용마을무리의개수 {
 	static int N, M, parents[];
 	static void make(){
 		parents = new int[N+1];

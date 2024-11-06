@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Solution_1244_D3_최대_상금_조예슬 {
+public class Solution_1244_D3_최대_상금 {
 	static int N, max;
 	static char[] ca;
 	public static void main(String[] args) throws Exception{

@@ -10,7 +10,7 @@ import java.util.*;
 	실행시간   432 ms
  */
 
-public class Solution_1251_D4_하나로_조예슬 {
+public class Solution_1251_D4_하나로 {
 	static int N;
 	static ArrayList<Edge> edges[];
 	static double E, answer;
